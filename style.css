@@ -1,0 +1,26 @@
+body {
+    align-items: center;
+    background-color: #f5f5f5;
+
+}
+
+header {
+    background-color: #c9c3c3;
+    display: block;
+    border-radius: 18px;
+    box-shadow: 0px 0px 10px #291a7e;
+    width: 100%;
+    text-align: center;
+    
+}
+
+section{
+    width: 40%;
+    background-color: #9386df;
+    padding: 20px;
+    border-radius: 18px;
+    box-shadow: 0px 0px 10px #291a7e;
+    display: inline-block;
+    margin: 5px;
+    height:  200px;
+}
